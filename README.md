@@ -12,5 +12,5 @@
    - *1. 在服务端中如果出现[INFO] [Exiled.Loader] Loaded plugin InfiniteAmmoPlugin@1.0.0字样证明此插件已启动*
 ## 关于我们&服务器
     QQ群 *473917754*
-   QQ个人*1593029481*
+   QQ群 *473917754*
  
